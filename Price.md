@@ -1,0 +1,4 @@
+#Price Analysis
+Apple is the topic du jour in the Virtual Reality (VR) market currently, and for good reason. VR has been somewhat stagnant with Meta dominating over the past few years through its Quest lineup. With Apple’s entrance, new hardware, alongside well-known software and content, will be available through Vision Pro. 
+At the least, Vision Pro has injected some hype back into the Extended Reality (XR) space, with consumer and enterprise segments showing interest. 
+Initial feedback has been very positive, outside of the US$3,500 price tag, but hands-on time has been very limited so far. Early 2024, after Vision Pro launches, will be a better indicator of the device’s—and more broadly, Apple’s—potential in the XR space.
